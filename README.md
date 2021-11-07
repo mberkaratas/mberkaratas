@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mberkaratas
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate building web applications
-- 📫 How to reach me mberkkaratas@gmail.com
+- 👀 I’m interested in optics and photonics
+- 🌱 I’m currently learning Topology Optimization
+- 💞️ I’m looking to collaborate building lenses
+- 📫 How to reach me mberk.karatas@tedu.edu.tr
 
 <!---
 mberkaratas/mberkaratas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
